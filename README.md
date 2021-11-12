@@ -1,5 +1,5 @@
 ### Hi there 👋
-github.com/tanmay6anand/tanmay6anand/header.png
+<img src="https://github.com/tanmay6anand/tanmay6anand/blob/main/header.png" alt="banner that says Tanmay Anand - Backend Software developer">
 <!--
 **tanmay6anand/tanmay6anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
