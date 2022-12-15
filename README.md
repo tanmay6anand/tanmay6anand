@@ -27,6 +27,10 @@
 <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
 
 
+My Portfolio website
+
+<a href="https://tanmay6anand.github.io/Portfolio/" title="Portfolio"><i style='font-size:24px' class='fas'>&#xf108;</i></a>
+
 <!--
 **tanmay6anand/tanmay6anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
